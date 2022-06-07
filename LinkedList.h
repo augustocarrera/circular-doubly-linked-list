@@ -1,5 +1,3 @@
-//   AUGUSTO ESTEVES CARRERA - 32114842
-//   GUSTAVO FERNANDES COSTA - 32161093
 #ifndef __LINKED_LIST_H__
 #define __LINKED_LIST_H__
 #include <iostream>
