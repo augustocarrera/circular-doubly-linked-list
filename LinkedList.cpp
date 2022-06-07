@@ -1,6 +1,3 @@
-//   AUGUSTO ESTEVES CARRERA - 32114842
-//   GUSTAVO FERNANDES COSTA - 32161093
-
 #include "LinkedList.h"
 #include <iostream>
 
